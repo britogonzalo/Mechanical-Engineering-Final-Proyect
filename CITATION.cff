@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Mechanical Engineering Final Proyect
+message: >-
+  Here you can find the STL files of all parts I have
+  designed in this proyect.
+type: dataset
+authors:
+  - given-names: Pedro Gonzalo
+    family-names: Brito
+    email: pedro.brito@ib.edu.ar
+repository-code: >-
+  https://github.com/britogonzalo/Mechanical-Engineering-Final-Proyect
+keywords:
+  - WAAM
+  - Additive Manufacturing
+  - Mechanical Engineering
+version: '1.0'
+date-released: '2025-06-09'
